@@ -29,8 +29,6 @@
     </div>
 @endif
 
-
-
         <form action="{{ route('login_store') }}" method="post" class="space-y-4">
             @csrf
 
