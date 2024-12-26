@@ -7,9 +7,8 @@
     <title>Login Form</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
-     
         tailwind.config = {
-            darkMode: 'class', // Enable class-based dark mode
+            darkMode: 'class',
         };
     </script>
 </head>
