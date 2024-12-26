@@ -32,7 +32,6 @@
         <form action="{{ route('login_store') }}" method="post" class="space-y-4">
             @csrf
 
-            <!-- Email Input -->
             <div>
                 <label for="email" class="block text-sm font-medium text-gray-300 mb-1">Email</label>
                 <input type="email" name="email" id="email" placeholder="Enter your email" required
